@@ -103,7 +103,7 @@ This repository is mainly for **learning and personal practice**, but suggestion
 
 ## 👨‍💻 Author
 
-**Shubham**
+**Shubham Gusain**
 
 GitHub:
 https://github.com/Shubham0x1
